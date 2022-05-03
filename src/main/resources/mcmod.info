@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "resources-calculator",
+  "name": "Resources Calculator",
+  "description": "This mod allow you to know how many items do you need for crafting.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/lMagickl/resources-calculator",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["lMagickl"],
+  "credits": "Programgames",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

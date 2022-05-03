@@ -13,7 +13,7 @@ run/
 .settings
 .classpath
 .project
-eclipse
+eclipse/
 
 .idea/
 *.iml
@@ -26,3 +26,6 @@ eclipse
 .vscode/
 bin/
 .classpath
+
+#minecraft addionnals
+libs/
